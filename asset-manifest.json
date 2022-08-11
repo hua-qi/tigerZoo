@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tigerZoo/static/css/main.cde1f51d.css",
+    "main.js": "/tigerZoo/static/js/main.7e9401f6.js",
+    "static/js/787.be11a334.chunk.js": "/tigerZoo/static/js/787.be11a334.chunk.js",
+    "static/media/logo.png": "/tigerZoo/static/media/logo.4b1fd1acbe1b9cf16a8d.png",
+    "static/media/logo-01.png": "/tigerZoo/static/media/logo-01.726cc8de63c1b23d06dd.png",
+    "index.html": "/tigerZoo/index.html",
+    "main.cde1f51d.css.map": "/tigerZoo/static/css/main.cde1f51d.css.map",
+    "main.7e9401f6.js.map": "/tigerZoo/static/js/main.7e9401f6.js.map",
+    "787.be11a334.chunk.js.map": "/tigerZoo/static/js/787.be11a334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde1f51d.css",
+    "static/js/main.7e9401f6.js"
+  ]
+}
